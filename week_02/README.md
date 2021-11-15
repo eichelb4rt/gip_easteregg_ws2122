@@ -1,6 +1,7 @@
 # Week 2 Eastereggs
 
 In der zweiten Woche ist das Easteregg ein kleines Programm, um den Schlüssel einen additiv verschlüsselten Text herauszufinden.
+Der beigefügte Text ist dem Wikipedia-Artikel über Bratwürste entzogen.
 Den Google Drive Folder findet ihr [hier](https://drive.google.com/drive/folders/1XLM7dOjdfEhWEHvyb3YPWQ9BohyAXhFM?usp=sharing).
 Als Nachricht empfehle ich folgendes:
 
