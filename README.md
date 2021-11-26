@@ -16,14 +16,22 @@ Ein Tool, was automatisch den Schlüssel zum entschlüsseln eines Kryptotexts fi
 
 ### Week 03
 
-Sudoku-Solver
+Rick Astley's "Never Gonna Give You Up" verschlüsselt.
 
 ### Week 04
+
+Sudoku-Solver
+
+funny numbers
+
+### Week 05
 
 Verschlüsseltes Sudoku
 
 Hier würde ich ihnen einen verschlüsselten Text geben, in dem es sich tatsächlich um ein Sudoku handelt. Evtl könnte man noch ein lustiges Mini-Easteregg in der Lösung des Sudokus verstecken.
 
-### Week 05+
+### Week 06+
 
-???, Ideen sind willkommen.
+Keine Ahnung, ich brauche mehr Ideen. Ich brauche mehr Rick Rolls. Ich brauche mehr Shrek.
+
+Wie wäre es, wenn ich irgendwas texe und da eine Rick Roll reinhaue?
